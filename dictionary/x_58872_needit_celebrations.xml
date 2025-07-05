@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7319ec61c32ee610ddf2b71ed4013126" label="celebrations" max_length="40" name="x_58872_needit_celebrations" type="collection">
+        <element display="true" label="Employee Email" mandatory="true" max_length="50" name="employee_email" type="string"/>
+        <element label="Name" max_length="200" name="name" type="string"/>
+        <element label="Celebration type" max_length="200" name="celebration_type" type="string"/>
+        <element label="Date" max_length="200" name="date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
