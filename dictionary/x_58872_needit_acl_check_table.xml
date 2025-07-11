@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4da1b13c3e26250ddf2b71ed40131e6" label="ACL CHECK TABLE" max_length="40" name="x_58872_needit_acl_check_table" type="collection">
+        <element label="Field2" max_length="40" name="field2" type="string"/>
+        <element display="true" label="Field5" max_length="40" name="field5" type="string"/>
+        <element label="Field1" max_length="40" name="field1" type="string"/>
+        <element label="Field3" max_length="40" name="field3" type="string"/>
+        <element label="Field4" max_length="40" name="field4" type="string"/>
+    </element>
+</database>
